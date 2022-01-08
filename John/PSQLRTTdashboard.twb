@@ -1459,8 +1459,8 @@
           </layout-options>
           <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='42' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='41' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='44' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='43' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='6250' id='29' type-v2='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
