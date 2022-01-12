@@ -15,7 +15,7 @@ Welcome to our final presentation in our Data Analytics Bootcamp.
 * We collected football score data from ESPN and the NFL and use this data to build dashboards summarizing the data about each player. 
 * With the current data you can make predictions using machine learning models for each player for the upcomming season. All of this work was deployed to a web app that you have in front of you.
 
-Stan: Will talk about the heroku deploymnt. 
+Stan: Will talk about the heroku deployment 
 
 Stan:
 
